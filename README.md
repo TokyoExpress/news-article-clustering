@@ -7,7 +7,9 @@ We will be coding in Python, using a NLP software (probably Spacy) to disseminat
 
 Dataset: https://www.kaggle.com/snapcrack/all-the-news
 
-
+Possible Roadblocks:
+* Specificity in clusters. Russia = Russian election hacking or Russian international relations or Russian Olympic ban?
+* Intersections in broad topics. E.g. "Donald Trump speaks about Hurricane Matthew" about DT or hurricane?
 
 
 
