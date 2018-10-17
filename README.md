@@ -5,7 +5,7 @@ We intend to utilize an unsupervised learning algorithim to cluster together a d
 We will be coding in Python, using a NLP software (probably Spacy) to disseminate the large bodies of text and derive coherent and comparable meaning (maybe using word vectors). 
 
 
-
+Dataset: https://www.kaggle.com/snapcrack/all-the-news
 
 
 
