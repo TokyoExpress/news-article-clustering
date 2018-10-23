@@ -12,7 +12,8 @@ Possible Roadblocks:
 * Intersections in broad topics. E.g. "Donald Trump speaks about Hurricane Matthew" about DT or hurricane?
 
 
-
+Notes:
+* Put special emphasis on dates and names when organizing clusters (use spacy entity recognition) 
 
 
 
