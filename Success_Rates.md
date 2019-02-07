@@ -21,3 +21,10 @@
 #### 700_no_ngrams
 * F1 score: 0.8638392857142858
 * Sillhouette Score: 0.06251251395097632
+
+
+
+##HAC
+#### 350_euclidean
+* F1 score: 0.8311688311688312
+* Sillhouette Score: 0.08998077808781355
