@@ -25,6 +25,10 @@
 
 
 ## HAC
-#### 350_euclidean
+#### 350_euclidean_HAC
 * F1 score: 0.8359621451104101
 * Sillhouette Score: 0.08998077808781355
+
+#### 500_euclidean_HAC
+* F1 score: 0.8997613365155133
+* Sillhouette Score: 0.08817834578438288
