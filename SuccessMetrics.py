@@ -9,7 +9,7 @@ Created on Wed Feb  6 11:16:12 2019
 ##############################################################################
 ##################SUCESS RATES################################################
 ##############################################################################
-def success(model, matrix):
+def success(model, clusters, matrix):
     
     import os
     import pandas as pd
@@ -42,7 +42,7 @@ def success(model, matrix):
         events.append(str(event))
 
 
-    clusters = model.labels_.tolist()
+   
     articles = {"title": titles, "date": new_df["date"], "cluster": clusters, "content": new_df["content"], "event": events[:1000]}
     frame = pd.DataFrame(articles, index = [clusters] , columns = ['title', 'date', 'cluster', 'content', "event"])
     frame['cluster'].value_counts()
