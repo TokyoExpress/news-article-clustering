@@ -73,6 +73,6 @@ len(df)
 # In[134]:
 
 
-df[].to_csv(".csv")
+df.to_csv("all_good_articles.csv")
 
 
